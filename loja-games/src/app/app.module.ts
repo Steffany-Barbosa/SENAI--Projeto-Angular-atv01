@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 
 /*Importações Angular Material*/
 import {MatButtonModule} from '@angular/material/button';
@@ -38,7 +39,8 @@ import { RodapeComponent } from './rodape/rodape.component';
     MatIconModule,
     MatInputModule,
     MatMenuModule,
-    MatToolbarModule
+    MatToolbarModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

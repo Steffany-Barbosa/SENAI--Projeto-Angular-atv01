@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "nome": "Steffany",
+      "email": "steffany@senai.com.br",
+      "password": "12345",
+      "id": 1
+    }
+  ]
+}
